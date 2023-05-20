@@ -1,0 +1,52 @@
+.body{
+    background-color:rgb(176, 134, 216);
+    
+}
+.section{
+ margin-left: 10%;
+margin-top: 5%;
+display: flex;
+background-color:white;
+height : 200px;
+width:600px;
+border-radius: 15px;
+}
+img{
+    margin: 5%;
+}
+
+h1{
+    color:aqua;
+    margin: 7%;
+}
+.summary{
+    margin-left: 86%;
+margin-top: 3px;
+margin-right: 22px;
+position:fixed;
+background-color:white;
+height : 200px;
+width:180px;
+border-radius: 15px;
+position: top right;
+}
+.purchase{
+    background-color: blue;
+    color:bisque;
+    border-radius: 15%;
+    margin-right:95px;
+    margin-left: 15px;
+    margin-bottom: 11px;
+}
+.red{
+    color: red;
+}
+#quantity{
+    margin-top: 25px;
+    margin-right: 24px;
+    height: 22px;
+    width: 35px;
+}
+i{
+    margin: 16px;
+}
